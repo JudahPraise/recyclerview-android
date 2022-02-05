@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Activity_2</string>
+
+
+    <string-array name="title">
+        <item>Name and Section</item>
+        <item>Mission</item>
+        <item>Vision</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Judah | BSIT 4-1</item>
+        <item>The Polytechnic University of the Philippines shall commit its academic
+resources and manpower to achieve its goal through the following:
+provision of undergraduate and graduate education which meet
+International standards of quality and excellence; generation and
+transmission of knowledge in the broad range of disciplines relevant and
+responsive to the dynamically changing domestic and international
+environment; provision of more equitable access to higher education
+opportunities to deserving and qualified Filipinos; and optimization,
+through efficiency and effectiveness, of social, institutional, and
+individual returns and benefits derived from the utilization of higher
+education resources.
+</item>
+        <item>The Polytechnic University of the Philippines, envisions to transform
+the University into an epistemic community.</item>
+    </string-array>
+
+
+</resources>
